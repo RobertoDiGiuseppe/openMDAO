@@ -1,0 +1,13 @@
+openMDAO creates a folder with 3 types of report files by default.
+- driver scaling report
+- n2 matrix
+- optimization report
+If you want to modify this default options you have to follow what is written in this link:
+https://openmdao.org/newdocs/versions/latest/features/reports/reports_system.html?highlight=reports#default-usage
+
+Driver scaling report:
+it generates a file html containing information about all design variables, objectives and constraints.
+
+Optimization report:
+it generates a file html containing information about the results of optimization process
+
